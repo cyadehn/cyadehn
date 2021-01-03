@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A software development student in Louisville, KY</h3>
 
-- 🔭 I’m currently working on [PokemonCLI](https://github.com/cyadehn/PokemonCLI)
+- 🔭 I’m currently working on [PokemonCLI](https://github.com/cyadehn/PokemonCLI) and my own [Anki Scripts](https://github.com/cyadehn/anki-scripts)
 
 - 🌱 I’m currently learning **general CS (EDX CS50), C# and .NET development**
 
