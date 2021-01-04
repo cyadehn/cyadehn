@@ -20,8 +20,6 @@
 <a href="https://instagram.com/cyadehn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cyadehn" height="30" width="40" /></a>
 </p>
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cyadehn&bg_color=30,FF1139,FEE071&title_color=fff&text_color=fff")](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyadehn)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=PokemonCLI)](https://github.com/cyadehn/PokemonCLI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=anki-scripts)](https://github.com/cyadehn/anki-scripts)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=random-number-game)](https://github.com/cyadehn/random-number-game)
+<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=cyadehn&bg_color=30,FF1139,FEE071&title_color=fff&text_color=fff""/>
+</a>
