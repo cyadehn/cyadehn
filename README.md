@@ -20,7 +20,7 @@
 <a href="https://instagram.com/cyadehn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cyadehn" height="30" width="40" /></a>
 </p>
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cyadehn&bg_color=30,FF1139,FEE071,2497E6&title_color=fff&text_color=fff")](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cyadehn&bg_color=30,FF1139,FEE071&title_color=fff&text_color=fff")](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyadehn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=PokemonCLI)](https://github.com/cyadehn/PokemonCLI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=anki-scripts)](https://github.com/cyadehn/anki-scripts)
