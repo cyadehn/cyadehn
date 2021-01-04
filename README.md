@@ -20,8 +20,6 @@
 <a href="https://instagram.com/cyadehn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cyadehn" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyadehn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ```text
 Week: 27 December, 2020 - 03 January, 2021
