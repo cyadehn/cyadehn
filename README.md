@@ -25,4 +25,13 @@
 </a>
 
 <!--START_SECTION:waka-->
+```text
+Week: 27 December, 2020 - 03 January, 2021
+
+JavaScript   1 hr 46 mins    ███████████▓░░░░░░░░░░░░░   47.32 % 
+HTML         1 hr 17 mins    ████████▓░░░░░░░░░░░░░░░░   34.42 % 
+Bash         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+```
 <!--END_SECTION:waka-->
