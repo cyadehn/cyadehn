@@ -27,6 +27,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=cyadehn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyadehn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=PokemonCLI)](https://github.com/cyadehn/PokemonCLI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=anki-scripts)](https://github.com/cyadehn/anki-scripts)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyadehn&repo=random-number-game)](https://github.com/cyadehn/random-number-game)
