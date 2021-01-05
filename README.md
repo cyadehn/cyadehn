@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
 JavaScript   1 hr 46 mins    ███████████▓░░░░░░░░░░░░░   47.32 % 
 HTML         1 hr 17 mins    ████████▓░░░░░░░░░░░░░░░░   34.42 % 
