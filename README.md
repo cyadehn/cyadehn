@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **christopher.dehner@outlook.com**
 
-- ⚡ Fun fact **I've learned 588 of the 2,136 Jōyō kanji. 日本語を勉強しましょう！**
+- ⚡ Fun fact **I've learned 588 of the 2,136 Jōyō kanji. 日本語について僕に聞いてください！**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
