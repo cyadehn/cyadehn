@@ -22,11 +22,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2021 - 11 January, 2021
+Week: 05 January, 2021 - 12 January, 2021
 
-JavaScript   52 mins         ███████████▓░░░░░░░░░░░░░   47.05 % 
-C            27 mins         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-HTML         24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
-Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+C   1 hr 31 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
