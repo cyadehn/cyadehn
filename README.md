@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 C   1 hr 31 mins    █████████████████████████   100.00 % 
 ```
