@@ -22,6 +22,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 January, 2021 - 01 February, 2021
+
+C#           1 hr 48 mins    ████████████░░░░░░░░░░░░░   48.01 % 
+C            1 hr 36 mins    ██████████▓░░░░░░░░░░░░░░   42.55 % 
+Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+XML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
