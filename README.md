@@ -21,7 +21,14 @@
 </p>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 08 August 2022 - To: 15 August 2022
+
+AutoHotkey   3 hrs 4 mins    ███████████████▓░░░░░░░░░   62.28 %
+Text         1 hr 50 mins    █████████▒░░░░░░░░░░░░░░░   37.41 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
+
 <!--END_SECTION:waka-->
