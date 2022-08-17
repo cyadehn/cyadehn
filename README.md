@@ -23,12 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 August 2022 - To: 15 August 2022
+From: 09 August 2022 - To: 16 August 2022
 
-AutoHotkey   3 hrs 4 mins    ███████████████▓░░░░░░░░░   62.28 %
-Text         1 hr 50 mins    █████████▒░░░░░░░░░░░░░░░   37.41 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+AutoHotkey   3 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.41 %
+Text         1 hr 46 mins    ████████▒░░░░░░░░░░░░░░░░   33.93 %
+Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
