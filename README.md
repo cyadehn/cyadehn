@@ -19,11 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-AutoHotkey     3 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-Text           2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Other          1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+AutoHotkey     1 hr 58 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Markdown       1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+VB.NET         1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Other          1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
 ```
 
 <!--END_SECTION:waka-->
