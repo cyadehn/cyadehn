@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-AutoHotkey     2 hrs 37 mins   █████████████░░░░░░░░░░░░   51.94 %
-OpenEdge ABL   1 hr 37 mins    ████████░░░░░░░░░░░░░░░░░   32.00 %
-VB.NET         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Text           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+AutoHotkey     1 hr 54 mins    ███████████░░░░░░░░░░░░░░   44.00 %
+OpenEdge ABL   1 hr 37 mins    █████████▒░░░░░░░░░░░░░░░   37.35 %
+VB.NET         28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Text           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
