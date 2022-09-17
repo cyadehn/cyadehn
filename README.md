@@ -19,12 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 15 September 2022
+From: 09 September 2022 - To: 16 September 2022
 
-JSON         10 mins         ████████████▓░░░░░░░░░░░░   50.68 %
-AutoHotkey   8 mins          ██████████▒░░░░░░░░░░░░░░   41.84 %
-Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+AutoHotkey   14 mins         █████████████░░░░░░░░░░░░   52.30 %
+JSON         10 mins         ██████████░░░░░░░░░░░░░░░   40.28 %
+Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
