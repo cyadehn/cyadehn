@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
+From: 19 September 2022 - To: 26 September 2022
 
-AutoHotkey     40 mins         █████████████████████▒░░░   85.58 %
-Markdown       6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+AutoHotkey   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
