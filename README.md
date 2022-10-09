@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-AutoHotkey   4 mins          ████████████████░░░░░░░░░   64.13 %
-Other        2 mins          █████████░░░░░░░░░░░░░░░░   35.87 %
+Other        47 mins         ████████████████████▓░░░░   83.01 %
 ```
 
 <!--END_SECTION:waka-->
