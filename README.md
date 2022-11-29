@@ -19,12 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 21 November 2022 - To: 28 November 2022
 
-AutoHotkey     1 min           ██████████████████▒░░░░░░   72.72 %
-OpenEdge ABL   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-VB.NET         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Other          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+OpenEdge ABL   0 secs          █████████▓░░░░░░░░░░░░░░░   39.09 %
+VB.NET         0 secs          █████████░░░░░░░░░░░░░░░░   36.32 %
+Other          0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
 ```
 
 <!--END_SECTION:waka-->
