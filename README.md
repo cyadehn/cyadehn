@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
+From: 29 November 2022 - To: 06 December 2022
 
-AutoHotkey   3 mins          ██████████████████████▓░░   90.67 %
-Other        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+AutoHotkey   2 mins          █████████████████████▓░░░   86.43 %
+Other        0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
 ```
 
 <!--END_SECTION:waka-->
