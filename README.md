@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-AutoHotkey   1 min           ████████████████████▓░░░░   82.12 %
-Other        0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Other        19 mins         █████████████████████▓░░░   87.18 %
 ```
 
 <!--END_SECTION:waka-->
