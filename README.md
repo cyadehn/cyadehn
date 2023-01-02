@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 25 December 2022 - To: 01 January 2023
 
 AutoHotkey   2 mins          ███████████████████████▒░   92.74 %
 Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
