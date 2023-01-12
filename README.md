@@ -19,9 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-Other        12 mins         ████████████████▒░░░░░░░░   64.86 %
+Other        1 hr 12 mins    ███████████████████████▒░   93.91 %
 ```
 
 <!--END_SECTION:waka-->
