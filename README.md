@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-AutoHotkey   14 mins         ██████████████▓░░░░░░░░░░   58.30 %
-Other        10 mins         ██████████▒░░░░░░░░░░░░░░   41.44 %
+AutoHotkey   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
