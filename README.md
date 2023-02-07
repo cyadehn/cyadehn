@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 January 2023 - To: 06 February 2023
+
+AutoHotkey   0 secs          █████████████████▒░░░░░░░   68.81 %
+CSV          0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.19 %
 ```
 
 <!--END_SECTION:waka-->
