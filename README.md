@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-AutoHotkey   36 mins         ████████████████████▓░░░░   82.88 %
-Other        7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+AutoHotkey   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
