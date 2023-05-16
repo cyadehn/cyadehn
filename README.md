@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2023 - To: 14 May 2023
+From: 08 May 2023 - To: 15 May 2023
 
-AutoHotkey   7 mins          ███████████████████████▓░   94.54 %
-Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
