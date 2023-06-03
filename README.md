@@ -18,8 +18,8 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
 AutoHotkey   26 mins         ████████████████████▓░░░░   82.95 %
 Other        5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
