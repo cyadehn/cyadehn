@@ -2,9 +2,9 @@
 <h1 align="center">🌟Hi, I'm Chris🌟</h1>
 <h3 align="center">A software development student in Louisville, KY</h3>
 
-- 🔭 I’m currently working on [PokemonCLI](https://github.com/cyadehn/PokemonCLI)
+- 🔭 I’m currently working on productivity scripting and VBA for Office applications.
 
-- 💬 Ask me about **Japanese kanji, Excel VBA, and Chocolate Chip Cookies**
+- 💬 Ask me about **Japanese kanji, Excel VBA, or piano performance.**
 
 - 📫 How to reach me **christopher.dehner@outlook.com**
 
