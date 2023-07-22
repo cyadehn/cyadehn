@@ -19,12 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 14 July 2023 - To: 21 July 2023
 
-AutoHotkey   58 mins         ████████████████████████░   96.45 %
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+AutoHotkey   7 mins          █████████████████████▒░░░   84.98 %
+Other        1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
 ```
 
 <!--END_SECTION:waka-->
