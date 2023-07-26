@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-AutoHotkey   7 mins          █████████████████████▒░░░   84.98 %
-Other        1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Other        7 mins          █████████████░░░░░░░░░░░░   52.41 %
+AutoHotkey   7 mins          ████████████░░░░░░░░░░░░░   47.59 %
 ```
 
 <!--END_SECTION:waka-->
