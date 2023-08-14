@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 AutoHotkey     7 mins          ███████████░░░░░░░░░░░░░░   44.34 %
 VB.NET         6 mins          ████████▓░░░░░░░░░░░░░░░░   35.28 %
