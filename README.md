@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-AutoHotkey     7 mins          ███████████░░░░░░░░░░░░░░   44.34 %
-VB.NET         6 mins          ████████▓░░░░░░░░░░░░░░░░   35.28 %
-Git Config     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-OpenEdge ABL   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-INI            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+VB.NET         6 mins          ████████████████░░░░░░░░░   64.47 %
+Git Config     1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+OpenEdge ABL   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+XML            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+INI            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
