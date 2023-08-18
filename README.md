@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Java             56 mins         ██████████████░░░░░░░░░░░   56.62 %
-Manifest         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-CLASS            8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-GitIgnore file   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-AutoHotkey       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Java             56 mins         ██████████▒░░░░░░░░░░░░░░   41.82 %
+AutoHotkey       31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+Manifest         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+INI              10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+CLASS            8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
