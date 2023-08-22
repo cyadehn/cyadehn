@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Java             56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-AutoHotkey       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-VB.NET           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Assembly         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Manifest         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Java             56 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 %
+AutoHotkey       41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+VB.NET           30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Assembly         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Manifest         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
