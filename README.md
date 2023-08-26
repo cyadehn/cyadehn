@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-VB.NET           2 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.46 %
-OpenEdge ABL     2 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.98 %
-Ezhil            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-AutoHotkey       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Assembly         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+VB.NET         3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.64 %
+OpenEdge ABL   2 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.05 %
+Ezhil          47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+XML            37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Markdown       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
