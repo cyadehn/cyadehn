@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Japanese kanji, Excel VBA, or downhill mountain biking.**
 
-- 📫 How to reach me **christopher.dehner@outlook.com**
+- 📫 How to reach me: **christopher.dehner@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
