@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on productivity scripting and VBA for Office applications.
 
-- 💬 Ask me about **Japanese kanji, Excel VBA, or piano performance.**
+- 💬 Ask me about **Japanese kanji, Excel VBA, or downhill mountain biking.**
 
 - 📫 How to reach me **christopher.dehner@outlook.com**
 
