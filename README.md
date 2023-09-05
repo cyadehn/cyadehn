@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Diff           46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Markdown       36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-OpenEdge ABL   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-AutoHotkey     21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-VB.NET         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Diff           46 mins         █████████░░░░░░░░░░░░░░░░   35.55 %
+Markdown       23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Python         17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+AutoHotkey     16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+JSON           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->
