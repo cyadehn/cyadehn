@@ -18,11 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-AutoHotkey   1 hr 31 mins    █████████████████████████   99.85 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+AutoHotkey     1 hr 34 mins    ████████████████████████▒   96.75 %
+VB.NET         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+INI            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
