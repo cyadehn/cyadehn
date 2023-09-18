@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 AutoHotkey     1 hr 26 mins    █████████████████████░░░░   83.37 %
 OpenEdge ABL   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
