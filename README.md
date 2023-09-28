@@ -18,11 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Java         1 hr 56 mins    ████████████████▓░░░░░░░░   67.22 %
-AutoHotkey   51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-XML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Java          2 hrs 8 mins    ████████████████▓░░░░░░░░   66.96 %
+AutoHotkey    57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+XML           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
