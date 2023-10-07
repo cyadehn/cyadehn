@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Java         3 hrs 7 mins    ████████████████████▓░░░░   82.31 %
-AutoHotkey   40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Java         2 hrs 48 mins   █████████████████████▓░░░   86.25 %
+AutoHotkey   26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
 ```
 
 <!--END_SECTION:waka-->
