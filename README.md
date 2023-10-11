@@ -18,12 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Java         1 hr 43 mins    ██████████████████▓░░░░░░   75.18 %
-AutoHotkey   21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-YAML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java   1 hr 43 mins    ██████████████████████▒░░   89.11 %
+YAML   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
