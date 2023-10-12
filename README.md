@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Java   1 hr 43 mins    ██████████████████████▒░░   89.11 %
-YAML   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Java   1 hr 49 mins    ██████████████████████▒░░   89.64 %
+YAML   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
 INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
