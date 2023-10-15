@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
 Java              1 hr 57 mins    ███████████████░░░░░░░░░░   60.24 %
 Properties        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
