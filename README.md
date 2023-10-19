@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2023 - To: 17 October 2023
+From: 11 October 2023 - To: 18 October 2023
 
-Java              33 mins         ████████▒░░░░░░░░░░░░░░░░   33.93 %
-Properties        14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-Java Properties   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-VB.NET            8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Groovy            7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Properties        14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+Java Properties   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Java              8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+VB.NET            8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Groovy            7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 ```
 
 <!--END_SECTION:waka-->
