@@ -18,9 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-AutoHotkey   0 secs          █████████████████████████   100.00 %
+AutoHotkey   0 secs          ████████████████████▒░░░░   81.78 %
+INI          0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
 ```
 
 <!--END_SECTION:waka-->
