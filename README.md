@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-AutoHotkey   1 min           ████████████████░░░░░░░░░   64.48 %
-VB.NET       0 secs          █████████░░░░░░░░░░░░░░░░   35.52 %
+AutoHotkey   0 secs          ██████████████▓░░░░░░░░░░   58.77 %
+VB.NET       0 secs          ██████████▒░░░░░░░░░░░░░░   41.23 %
 ```
 
 <!--END_SECTION:waka-->
