@@ -18,9 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-INI   0 secs          █████████████████████████   100.00 %
+INI          0 secs          ███████████████▓░░░░░░░░░   62.53 %
+AutoHotkey   0 secs          █████████▒░░░░░░░░░░░░░░░   37.47 %
 ```
 
 <!--END_SECTION:waka-->
