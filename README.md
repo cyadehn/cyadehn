@@ -18,11 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
-AutoHotkey   29 mins         ████████████████████████▓   99.03 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+AutoHotkey   30 mins         ████████████████████████▓   99.27 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
