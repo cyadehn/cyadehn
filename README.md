@@ -18,12 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2024 - To: 21 March 2024
+From: 15 March 2024 - To: 22 March 2024
 
-AutoHotkey   1 min           ███████████████████▒░░░░░   77.73 %
-INI          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-XML          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+AutoHotkey   0 secs          ███████████████████████░░   91.99 %
+XML          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
