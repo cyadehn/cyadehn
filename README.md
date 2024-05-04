@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2024 - To: 02 May 2024
+From: 26 April 2024 - To: 03 May 2024
 
-AutoHotkey   1 hr 1 min      ██████████████████████▒░░   89.66 %
-INI          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+AutoHotkey   14 mins         █████████████████░░░░░░░░   67.53 %
+INI          6 mins          ████████░░░░░░░░░░░░░░░░░   32.26 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
