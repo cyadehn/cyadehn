@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 AutoHotkey   10 mins         ██████████████████░░░░░░░   71.71 %
 Other        3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.87 %
