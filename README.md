@@ -18,10 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
-Other        5 mins          ███████████████████████▓░   94.45 %
-AutoHotkey   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+AutoHotkey     16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+VB.NET         14 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+Other          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+INI            9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+OpenEdge ABL   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
 ```
 
 <!--END_SECTION:waka-->
