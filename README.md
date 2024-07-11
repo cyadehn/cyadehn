@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
-Other        10 mins         ███████████████████████▓░   94.73 %
-INI          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Other        6 mins          ██████████████████████▓░░   91.06 %
+INI          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+AutoHotkey   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
