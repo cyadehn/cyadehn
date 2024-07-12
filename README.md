@@ -18,11 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2024 - To: 10 July 2024
+From: 04 July 2024 - To: 11 July 2024
 
-Other        6 mins          ██████████████████████▓░░   91.06 %
-INI          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-AutoHotkey   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
