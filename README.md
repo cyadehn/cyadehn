@@ -18,9 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-AutoHotkey   1 min           █████████████████████████   100.00 %
+HTML         16 mins         ██████████▒░░░░░░░░░░░░░░   41.19 %
+JavaScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+Markdown     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Git Config   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
