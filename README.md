@@ -18,9 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2024 - To: 06 September 2024
+From: 31 August 2024 - To: 07 September 2024
 
-Other   11 mins         █████████████████████████   100.00 %
+HTML         22 mins         ████████████████▒░░░░░░░░   65.68 %
+Other        11 mins         ████████▓░░░░░░░░░░░░░░░░   34.24 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
