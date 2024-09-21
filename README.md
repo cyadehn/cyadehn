@@ -18,9 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-AutoHotkey   14 mins         █████████████████████████   100.00 %
+AutoHotkey   14 mins         █████████████████████▒░░░   85.28 %
+JavaScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
