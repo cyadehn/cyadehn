@@ -18,9 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-AutoHotkey   6 mins          █████████████████████████   100.00 %
+AutoHotkey   6 mins          ██████████████▓░░░░░░░░░░   59.15 %
+XML          4 mins          ██████████▒░░░░░░░░░░░░░░   40.85 %
 ```
 
 <!--END_SECTION:waka-->
