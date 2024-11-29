@@ -18,10 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 27 November 2024
+From: 21 November 2024 - To: 28 November 2024
 
-AutoHotkey     22 mins         █████████████████████░░░░   83.76 %
-XML            4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+AutoHotkey     18 mins         ███████████████████░░░░░░   76.21 %
+XML            5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
+INI            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
