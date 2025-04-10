@@ -18,11 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-AutoHotkey   13 mins         ████████████████████████▓   99.05 %
-INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+AutoHotkey   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
