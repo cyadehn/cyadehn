@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-AutoHotkey   43 mins         ███████████████████▓░░░░░   78.81 %
-CSV          11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+AutoHotkey   45 mins         ███████████████████▓░░░░░   79.22 %
+CSV          11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
 ```
 
 <!--END_SECTION:waka-->
