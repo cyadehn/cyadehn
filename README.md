@@ -18,10 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-AutoHotkey   9 mins          ██████████████████▒░░░░░░   73.87 %
-Other        3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+AutoHotkey   14 mins         ████████████████████▒░░░░   80.96 %
+Other        3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
