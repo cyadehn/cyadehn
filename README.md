@@ -18,10 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-AutoHotkey   46 mins         ███████████████████████▓░   94.95 %
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JSON         1 hr 28 mins    ████████████████░░░░░░░░░   64.45 %
+AutoHotkey   46 mins         ████████▒░░░░░░░░░░░░░░░░   33.76 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
