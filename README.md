@@ -18,12 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-JSON         4 hrs 6 mins    ████████████████████▒░░░░   81.64 %
-AutoHotkey   46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON           9 hrs 26 mins   ███████████████████████▒░   93.59 %
+OpenEdge ABL   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Git Config     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+AutoHotkey     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
