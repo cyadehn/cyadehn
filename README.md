@@ -18,13 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
-JSON         13 hrs 21 mins  ████████████████████████▓   98.85 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON    8 hrs 18 mins   █████████████████████▓░░░   87.09 %
+Lua     1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+netrw   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
