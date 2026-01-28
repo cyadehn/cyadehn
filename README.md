@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 26 January 2026
+From: 20 January 2026 - To: 27 January 2026
 
-JSON    8 hrs 18 mins   █████████████████████▓░░░   87.09 %
-Lua     1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-netrw   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON    6 hrs 29 mins   █████████████████████░░░░   84.11 %
+Lua     1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+netrw   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
