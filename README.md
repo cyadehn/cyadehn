@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-JSON           11 hrs 4 mins   █████████▓░░░░░░░░░░░░░░░   39.22 %
-Markdown       6 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Lua            3 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-netrw          1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Other          1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+JSON           11 hrs 30 mins  ███████████░░░░░░░░░░░░░░   43.96 %
+Markdown       4 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Lua            3 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Other          1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+netrw          1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
