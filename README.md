@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-JSON           15 hrs 56 mins  █████████████████▒░░░░░░░   69.03 %
-Markdown       4 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-Other          1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-VB.NET         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-zsh            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JSON           13 hrs 48 mins        ██████████████░░░░░░░░░░░   56.19 %
+Markdown       4 hrs 39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+AutoHotkey     1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Other          1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+VB.NET         49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
