@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2026 - To: 02 March 2026
+From: 24 February 2026 - To: 03 March 2026
 
-JSON           4 hrs 34 mins         ████████████▒░░░░░░░░░░░░   48.80 %
-AsciiDoc       2 hrs 22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-OpenEdge ABL   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-AutoHotkey     22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Python         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+JSON           4 hrs 40 mins         █████████████▒░░░░░░░░░░░   53.43 %
+AsciiDoc       2 hrs 18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+OpenEdge ABL   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+AutoHotkey     22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+zsh            17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
