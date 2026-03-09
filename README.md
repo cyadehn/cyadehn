@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2026 - To: 07 March 2026
+From: 01 March 2026 - To: 08 March 2026
 
-JSON         9 hrs 53 mins         ██████████████████░░░░░░░   72.29 %
-zsh          1 hr 26 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-AsciiDoc     1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-AutoHotkey   34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-netrw        12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JSON         9 hrs 53 mins         ███████████████████░░░░░░   76.18 %
+AsciiDoc     1 hr 9 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+zsh          1 hr 9 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+AutoHotkey   34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Bash         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
