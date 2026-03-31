@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 23 March 2026 - To: 30 March 2026
 
-AutoHotkey     3 hrs 39 mins         ██████████████▓░░░░░░░░░░   58.89 %
-Python         1 hr 27 mins          ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-JSON           31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-PHP            8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-OpenEdge ABL   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python         1 hr 27 mins          ███████████▒░░░░░░░░░░░░░   45.56 %
+AutoHotkey     1 hr 12 mins          █████████▒░░░░░░░░░░░░░░░   37.82 %
+JSON           18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+OpenEdge ABL   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+zsh            4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
