@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-AutoHotkey     11 hrs 4 mins         ██████████████████████░░░   87.61 %
-JSON           1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Text           18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-OpenEdge ABL   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+AutoHotkey     14 hrs 38 mins        █████████████████████▓░░░   87.19 %
+JSON           1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown       34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Text           18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+OpenEdge ABL   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
