@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-AutoHotkey   5 hrs 23 mins         █████████████░░░░░░░░░░░░   52.23 %
-C            2 hrs 3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-JSON         1 hr 28 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Markdown     46 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Makefile     20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+AutoHotkey     3 hrs 59 mins         ██████████▓░░░░░░░░░░░░░░   42.22 %
+JSON           2 hrs 28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+C              2 hrs 3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Makefile       20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Markdown       11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
