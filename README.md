@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-AutoHotkey     3 hrs 58 mins         ██████████████▒░░░░░░░░░░   57.26 %
-JSON           2 hrs 49 mins         ██████████░░░░░░░░░░░░░░░   40.60 %
-OpenEdge ABL   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JSON           4 hrs                 ██████████████▒░░░░░░░░░░   57.21 %
+AutoHotkey     2 hrs 44 mins         █████████▓░░░░░░░░░░░░░░░   39.01 %
+OpenEdge ABL   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Vim Script     6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Other          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
