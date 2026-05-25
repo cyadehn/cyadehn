@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
 JSON           4 hrs 10 mins         ████████████████░░░░░░░░░   64.37 %
 AutoHotkey     1 hr 34 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
