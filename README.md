@@ -1,10 +1,10 @@
 <div class="main">
 <h1 align="center">🌟Hi, I'm Chris🌟</h1>
-<h3 align="center">A developer and customs brokerage rep in Louisville, KY</h3>
+<h3 align="center">A developer and aircraft maintenance student in Louisville, KY</h3>
 
-- 🔭 I’m currently working on productivity scripting and VBA for Office applications.
+- 🔭 I’m currently working on HLLAPI scripting for Excel VBA and Raspberry Pi full-stack development.
 
-- 💬 Ask me about **Knitting, Excel VBA, or downhill mountain biking.**
+- 💬 Ask me about **Knitting, the Saab 1073, or downhill mountain biking.**
 
 - 📫 How to reach me: **christopher.dehner@outlook.com**
 
