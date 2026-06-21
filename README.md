@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on HLLAPI scripting for Excel VBA and Raspberry Pi full-stack development.
 
-- 💬 Ask me about **Knitting, the Saab 1073, or downhill mountain biking.**
+- 💬 Ask me about **knitting, taxonomic classification, or downhill mountain biking.**
 
 - 📫 How to reach me: **christopher.dehner@outlook.com**
 
