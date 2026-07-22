@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-AutoHotkey     24 mins               █████████▒░░░░░░░░░░░░░░░   37.03 %
-VB.NET         22 mins               ████████▓░░░░░░░░░░░░░░░░   34.07 %
-JSON           11 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-OpenEdge ABL   6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-INI            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown       3 hrs 7 mins          ████████████████████░░░░░   80.03 %
+AutoHotkey     26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Git Config     6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+OpenEdge ABL   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON           5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
