@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 26 July 2026
+From: 20 July 2026 - To: 27 July 2026
 
-Markdown       3 hrs 39 mins         ██████████████████▒░░░░░░   72.94 %
-AutoHotkey     1 hr 1 min            █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-JSON           8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config     6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-OpenEdge ABL   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Markdown       4 hrs 10 mins         █████████████░░░░░░░░░░░░   52.64 %
+AutoHotkey     1 hr 50 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+JavaScript     49 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JSON           47 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Git Config     7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
