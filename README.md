@@ -1,8 +1,8 @@
 <div class="main">
-<h1 align="center">🌟Hi, I'm Chris🌟</h1>
+<h1 align="center">🌟Hi, I'm Christopher🌟</h1>
 <h3 align="center">A developer and aircraft maintenance student in Louisville, KY</h3>
 
-- 🔭 I’m currently working on HLLAPI scripting for Excel VBA and Raspberry Pi full-stack development.
+- 🔭 I’m currently working on HLLAPI scripting for Excel VBA and full-stack development for the Raspberry Pi.
 
 - 💬 Ask me about **knitting, taxonomic classification, or downhill mountain biking.**
 
