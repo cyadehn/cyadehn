@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-JavaScript     9 hrs                 ███████████████░░░░░░░░░░   59.58 %
-JSON           1 hr 54 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-AutoHotkey     46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-ERB            42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-OpenEdge ABL   35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JavaScript     8 hrs 36 mins         ██████████████████░░░░░░░   71.95 %
+ERB            42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+JSON           28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Ruby           27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+AutoHotkey     22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
