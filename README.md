@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Lua          1 hr 10 mins          ███████████████░░░░░░░░░░   60.49 %
-PowerShell   39 mins               ████████▓░░░░░░░░░░░░░░░░   34.03 %
-AutoHotkey   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Lua          29 mins               ████████████▓░░░░░░░░░░░░   51.13 %
+PowerShell   25 mins               ███████████░░░░░░░░░░░░░░   43.72 %
+AutoHotkey   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
