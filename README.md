@@ -18,12 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Lua          29 mins               ████████████▓░░░░░░░░░░░░   51.13 %
-PowerShell   25 mins               ███████████░░░░░░░░░░░░░░   43.72 %
-AutoHotkey   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
