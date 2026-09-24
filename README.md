@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-Ruby         1 hr 5 mins           ████████▓░░░░░░░░░░░░░░░░   35.20 %
-Lua          42 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
-AutoHotkey   32 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-oil          30 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-PowerShell   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Lua          3 hrs 33 mins         ██████████▒░░░░░░░░░░░░░░   40.70 %
+Ruby         2 hrs 5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+Markdown     1 hr 45 mins          █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+oil          32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+AutoHotkey   32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
