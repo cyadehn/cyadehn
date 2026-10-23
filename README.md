@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2026 - To: 21 October 2026
+From: 15 October 2026 - To: 22 October 2026
 
-Ruby         13 hrs 12 mins        ██████████████▓░░░░░░░░░░   58.25 %
-Org          2 hrs 30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-PowerShell   1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Lua          1 hr 8 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Other        1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Ruby         12 hrs 46 mins        ██████████████░░░░░░░░░░░   55.64 %
+Org          2 hrs 50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+JavaScript   2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+PowerShell   1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Other        1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
