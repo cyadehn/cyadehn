@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2026 - To: 31 October 2026
+From: 04 November 2026 - To: 11 November 2026
 
-Ruby           7 hrs 9 mins          █████████▒░░░░░░░░░░░░░░░   37.03 %
-Lua            4 hrs 13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Org            3 hrs 27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-AutoHotkey     2 hrs 40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-JSON           40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Ruby            7 hrs 2 mins          █████████▓░░░░░░░░░░░░░░░   38.73 %
+Lua             3 hrs 51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
+Markdown        1 hr 47 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+XML             1 hr 28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+CSV             46 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
