@@ -7,13 +7,6 @@
     <li>WINHLLAPI/SQL Server Reporting Services Libraries for Excel VBA</li>
     <li>Command-line scripts for project management</li>
   </ul>
-
-  Ask me about:
-  <ul>
-    <li>Knitting</li>
-    <li>Taxonomic Classification</li>
-    <li>Downhill Mountain Biking</li>
-  </ul>
 </p>
 
 <h3 align="left">
